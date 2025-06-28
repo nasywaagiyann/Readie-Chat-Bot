@@ -1,7 +1,7 @@
-streamlit
-pandas
-scikit-learn
-langchain
-langchain-community
-langchain-google-genai
-faiss-cpu
+streamlit==1.25.0
+pandas==1.5.3
+scikit-learn==1.2.2
+langchain==0.0.221
+langchain-community==0.0.33
+langchain-google-genai==0.0.7
+faiss-cpu==1.7.4
